@@ -1,0 +1,11 @@
+{
+    "include": ["source"],
+    "compilerOptions": {
+        "target": "esnext",
+        "module": "esnext",
+        "moduleResolution": "bundler",
+        "lib": ["ESNext","DOM","DOM.Iterable"],
+        "types": [],
+        "strict": true
+    }
+}
